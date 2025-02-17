@@ -3,11 +3,15 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Vinícius Costa Reis
+Matricula: 887774
 
 ## Tela de inspeção com navegador
 
+![ferramenta do desenvolvedor youtube](print%20atividade%201%20(2).png)
+
 
 ## Tela de projeto no Replit
+
+![imagem do replit](print%20atividade%201%20(1).png)
 
