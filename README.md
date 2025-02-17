@@ -13,5 +13,5 @@ Matricula: 887774
 
 ## Tela de projeto no Replit
 
-![imagem do replit](print%20atividade%201%20(1).png)
+![imagem do replit](print%20atividade.png)
 
